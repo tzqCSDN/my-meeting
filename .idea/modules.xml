@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyDay-Meeting-Pojo/MyDay-Meeting-Pojo.iml" filepath="$PROJECT_DIR$/MyDay-Meeting-Pojo/MyDay-Meeting-Pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDay-Meeting-Web/MyDay-Meeting-Web.iml" filepath="$PROJECT_DIR$/MyDay-Meeting-Web/MyDay-Meeting-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-meeting.iml" filepath="$PROJECT_DIR$/my-meeting.iml" />
+    </modules>
+  </component>
+</project>
